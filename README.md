@@ -42,7 +42,7 @@ A comprehensive Business Intelligence (BI) and Descriptive Analytics project lev
 
 All EDA is implemented using **Python**, `pandas`, `seaborn`, `plotly`, and `ydata-profiling`.
 
-> 📁 See: [`Retail Performance Unlocked: BI + EDA on Global Superstore Sales.ipynb`](https://colab.research.google.com/drive/1KlcI2qG2a-xsY-o5O60ta2n86csi1_2-?usp=sharing)
+> 📁 See: [`Retail Performance Unlocked: EDA on Global Superstore Sales.ipynb`](https://colab.research.google.com/drive/1KlcI2qG2a-xsY-o5O60ta2n86csi1_2-?usp=sharing)
 
 ---
 
