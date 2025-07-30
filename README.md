@@ -1,6 +1,6 @@
 # Global-Superstore-Sales-Analysis
 
-# 📊 Global Superstore Descriptive/BI Analysis
+# 📊 Global Superstore Descriptive
 
 A comprehensive Business Intelligence (BI) and Descriptive Analytics project leveraging the Global Superstore Sales Dataset. This project uncovers key sales, profit, and shipping insights that could guide strategic decision-making in a retail context.
 
