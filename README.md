@@ -46,20 +46,6 @@ All EDA is implemented using **Python**, `pandas`, `seaborn`, `plotly`, and `yda
 
 ---
 
-## 📊 Dashboard Highlights
-
-### Built using: **Power BI** / **Tableau Public**
-- 🌍 Regional Sales & Profit Map
-- 📦 Category & Subcategory Performance
-- 🕐 Shipping Performance Dashboard
-- 💰 Discount & Profitability Correlation
-- 👥 Customer Segment Overview
-
-> 📎 [View Public Dashboard (Tableau/Power BI)](https://public.tableau.com/) ← *(Replace with actual link)*  
-> 🖼️ Dashboard screenshots are available in [`/visuals`](visuals)
-
----
-
 ## 🧠 Key Insights
 
 - 📈 **Technology** and **Office Supplies** were top profit-generating categories.
@@ -76,7 +62,6 @@ All EDA is implemented using **Python**, `pandas`, `seaborn`, `plotly`, and `yda
 |----------------|---------------------------|
 | Language        | Python                    |
 | Libraries       | pandas, seaborn, plotly, ydata-profiling |
-| BI Tools        | Tableau / Power BI        |
 | Notebook        | Google Colab / Jupyter    |
 | Version Control | Git + GitHub              |
 
@@ -87,8 +72,7 @@ All EDA is implemented using **Python**, `pandas`, `seaborn`, `plotly`, and `yda
 Global_Superstore_Analysis/  
 ├── data/ # Raw and cleaned datasets  
 ├── notebooks/ # Jupyter/Colab notebooks  
-├── visuals/ # Dashboard screenshots & charts  
-├── dashboard/ # Power BI / Tableau files  
+├── visuals/ # Dashboard screenshots & charts 
 ├── docs/ # Project documentation  
 └── README.md  
 
